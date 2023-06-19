@@ -3,7 +3,7 @@
 #This project creates the new user on the local system.
 #You will be prompted to enter the username(login),person name and password 
 #usernaeme password and host name wil be displyed at the end of the project. 
-this is to merge
+this is to merge.
 #1)Make sure the script is being excuted within the superuser previlages
 
 if [[ "${UID}" -ne 0 ]]
